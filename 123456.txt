@@ -1,1 +1,12 @@
-qwedsfg
+link tải phần mềm 5/11 7/11
+
+
+cài thư viện ở 4/11
+keras
+tensorflow
+Pillow
+numpy
+opencv-python
+
+ở 5/11
+pyserial
